@@ -1,0 +1,62 @@
+base_info:
+  title:  于鑫舟的博客
+  author:  于鑫舟
+  url:  https://yuxinzhou.top
+style:
+  avatar: 
+  favicon: 
+  first_screen:
+    enable: false
+    background_img: 
+    description: 
+menu:
+  Categories: /categories
+  Tags: /tags
+  About: /about
+home_article:
+  category:
+    enable: true
+    limit: 3
+  tag:
+    enable: true
+    limit: 5
+post:
+  word_count:
+    enable: true
+    wordcount: true
+  author_label:
+    enable: false
+    auto: false
+code_copy:
+  enable: true
+  style: mac
+toc:
+  enable: true
+  expand_all: true
+  init_open: true
+copyright_info:
+  enable: true
+website_count:
+  busuanzi_count:
+    enable: true
+    site_uv: true
+    site_pv: true
+    page_pv: true
+local_search:
+  enable: true
+  preload: true
+comment:
+  enable: true
+  use: valine
+  # Valine
+  valine:
+    appid: Hfq3b3I0RONhJiJMWFbdr0vM-gzGzoHsz
+    appkey: DaadCgoDETcIMfPCC3DkoIr8
+    placeholder: 说点儿什么吧~
+lazyload:
+  enable: true
+cdn:
+  enable: true  #用于开启部分keep主题资源（JS 文件、字体文件等）的CDN加速功能（借助 jsDelivr），如果出问题就把它false掉吧
+footer:
+  since: 2021
+  icp: #网站ICP备案编号

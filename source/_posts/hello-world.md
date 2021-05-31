@@ -1,5 +1,7 @@
 ---
 title: Hello World
+categories:
+- Try
 tags:
 - foo
 ---
