@@ -3,8 +3,8 @@ base_info:
   author:  于鑫舟
   url:  https://yuxinzhou.top
 style:
-  avatar: 
-  favicon: 
+  avatar: /images/avatar.jfif
+  favicon: /images/logo.jfif
   first_screen:
     enable: false
     background_img: 
