@@ -1,14 +1,10 @@
 base_info:
-  title:  于鑫舟的博客
-  author:  于鑫舟
-  url:  https://yuxinzhou.top
+  title: 于鑫舟的博客
+  author: 于鑫舟
+  url: https://yuxinzhou.top
 style:
   avatar: /images/avatar.jfif
   favicon: /images/logo.jfif
-  first_screen:
-    enable: false
-    background_img: 
-    description: 
 menu:
   Categories: /categories
   Tags: /tags
