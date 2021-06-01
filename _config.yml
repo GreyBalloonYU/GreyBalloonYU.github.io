@@ -113,3 +113,10 @@ search:
   field: post
   content: true
   format: striptags
+
+# hexo-tag-aplayer
+aplayer:
+  cdn: https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js
+  style_cdn: https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css
+  meting: true
+  meting_cdn: https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js
