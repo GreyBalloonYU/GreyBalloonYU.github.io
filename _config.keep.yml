@@ -2,6 +2,7 @@ base_info:
   title: 于鑫舟的博客
   author: 于鑫舟
   url: https://yuxinzhou.top
+  logo_img: /images/title_logo.jfif
 style:
   avatar: /images/avatar.jfif
   favicon: /images/logo.jfif

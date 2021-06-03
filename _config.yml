@@ -117,3 +117,7 @@ search:
 # hexo-tag-aplayer
 aplayer:
   meting: true # MetingJS 支持
+
+# hexo-blog-encrypt
+encrypt:
+  enable: true
