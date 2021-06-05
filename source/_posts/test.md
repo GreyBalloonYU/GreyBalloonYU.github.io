@@ -8,6 +8,8 @@ tags:
 - 音乐
 ---
 
+<font size=4>
+
 > 你好，博客
 
 {% meting "1497823469" "netease" "song" %}
@@ -21,3 +23,5 @@ tags:
 {% asset_img pic4.jpg %}
 <br/>
 {% asset_img pic5.jpg %}
+
+</font>
