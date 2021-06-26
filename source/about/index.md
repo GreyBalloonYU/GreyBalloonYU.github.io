@@ -30,4 +30,6 @@ comment: true
 
 - 邮箱 | cvdfed_19981009@126.com
 
+- 豆瓣 | {% link 灰气球 https://www.douban.com/people/188155622/ %}
+
 </font>
