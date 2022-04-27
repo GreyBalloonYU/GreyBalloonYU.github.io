@@ -177,7 +177,7 @@
 </li>
 <li><p>QQ | 740354865</p>
 </li>
-<li><p>邮箱 | <a class="link"   href="mailto:&#x63;&#118;&#x64;&#102;&#101;&#x64;&#x5f;&#49;&#x39;&#x39;&#56;&#49;&#x30;&#x30;&#x39;&#x40;&#x31;&#x32;&#54;&#x2e;&#x63;&#x6f;&#109;" >&#x63;&#118;&#x64;&#102;&#101;&#x64;&#x5f;&#49;&#x39;&#x39;&#56;&#49;&#x30;&#x30;&#x39;&#x40;&#x31;&#x32;&#54;&#x2e;&#x63;&#x6f;&#109;<i class="fas fa-external-link-alt"></i></a></p>
+<li><p>邮箱 | <a class="link"   href="mailto:&#x63;&#118;&#x64;&#x66;&#101;&#x64;&#x5f;&#49;&#x39;&#x39;&#56;&#49;&#48;&#48;&#x39;&#x40;&#x31;&#x32;&#x36;&#x2e;&#99;&#111;&#x6d;" >&#x63;&#118;&#x64;&#x66;&#101;&#x64;&#x5f;&#49;&#x39;&#x39;&#56;&#49;&#48;&#48;&#x39;&#x40;&#x31;&#x32;&#x36;&#x2e;&#99;&#111;&#x6d;<i class="fas fa-external-link-alt"></i></a></p>
 </li>
 <li><p>豆瓣 | <a class="link"   href="https://www.douban.com/people/188155622/"  title="" target="">灰气球<i class="fas fa-external-link-alt"></i></a></p>
 </li>
@@ -194,74 +194,6 @@
     <div class="comment-area-title">
         <i class="fas fa-comments">&nbsp;评论</i>
     </div>
-    
-
-        
-            
-    <div class="valine-container">
-        <script 
-                src="//cdn.jsdelivr.net/npm/valine@latest/dist/Valine.min.js"></script>
-        <div id="vcomments"></div>
-        <script >
-            function loadValine() {
-                new Valine({
-                    el: '#vcomments',
-                    appId: 'Hfq3b3I0RONhJiJMWFbdr0vM-gzGzoHsz',
-                    appKey: 'DaadCgoDETcIMfPCC3DkoIr8',
-                    meta: ['nick', 'mail', 'link'],
-                    avatar: 'wavatar',
-                    enableQQ: true,
-                    placeholder: '说点儿什么吧~',
-                    lang: 'zh-CN'.toLowerCase()
-                });
-
-                function getAuthor(language) {
-                    switch (language) {
-                        case 'en':
-                            return 'Author';
-                        case 'zh-CN':
-                            return '博主';
-                        default:
-                            return 'Master';
-                    }
-                }
-
-                // Add "Author" identify
-                const getValineDomTimer = setInterval(() => {
-                    const vcards = document.querySelectorAll('#vcomments .vcards .vcard');
-                    if (vcards.length > 0) {
-                        let author = '于鑫舟';
-
-                        if (author) {
-                            for (let vcard of vcards) {
-                                const vnick_dom = vcard.querySelector('.vhead .vnick');
-                                const vnick = vnick_dom.innerHTML;
-                                if (vnick === author) {
-                                    vnick_dom.innerHTML = `${vnick} <span class="author">${getAuthor(KEEP.hexo_config.language)}</span>`
-                                }
-                            }
-                        }
-                        clearInterval(getValineDomTimer);
-                    } else {
-                        clearInterval(getValineDomTimer);
-                    }
-                }, 2000);
-            }
-
-            if ('false') {
-                const loadValineTimeout = setTimeout(() => {
-                    loadValine();
-                    clearTimeout(loadValineTimeout);
-                }, 1000);
-            } else {
-                window.addEventListener('DOMContentLoaded', loadValine);
-            }
-        </script>
-    </div>
-
-
-
-        
     
 </div>
 
