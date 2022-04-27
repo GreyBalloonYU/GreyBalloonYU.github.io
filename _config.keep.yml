@@ -43,7 +43,7 @@ local_search:
   enable: true
   preload: true
 comment:
-  enable: true
+  enable: false
   use: valine
   # Valine
   valine:
