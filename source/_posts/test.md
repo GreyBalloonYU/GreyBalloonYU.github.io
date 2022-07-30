@@ -14,14 +14,14 @@ tags:
 
 {% meting "1497823469" "netease" "song" %}
 # 记录我的生活
-{% asset_img pic1.jpg %}
-<br/>
-{% asset_img pic2.jpg %}
-<br/>
-{% asset_img pic3.jpg %}
-<br/>
-{% asset_img pic4.jpg %}
-<br/>
-{% asset_img pic5.jpg %}
+![UCAjqA.jpg](https://m1.im5i.com/2022/07/30/UCAjqA.jpg)
+
+![UCAT6S.jpg](https://m1.im5i.com/2022/07/30/UCAT6S.jpg)
+
+![UCAZH0.jpg](https://m1.im5i.com/2022/07/30/UCAZH0.jpg)
+
+![UCAkTB.jpg](https://m1.im5i.com/2022/07/30/UCAkTB.jpg)
+
+![UCACez.jpg](https://m1.im5i.com/2022/07/30/UCACez.jpg)
 
 </font>
