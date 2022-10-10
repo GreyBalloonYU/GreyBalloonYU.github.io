@@ -9,7 +9,7 @@ categories:
 
 <font size=4>
 
-In a wonderful night in my 24th birthday, I give a presentation about the blog in PSC.
+In a wonderful night of my 24th birthday, I gave a presentation about the blog in PSC. It was so meaningful for me 😃
 
 Here is the slides of my presentation:
 
